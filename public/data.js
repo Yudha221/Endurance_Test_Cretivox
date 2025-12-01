@@ -109,7 +109,7 @@ export const listProyek = [
     gambar: Proyek2,
     nama: "Warung Kenna App",
     desk: "plikasi kasir sederhana untuk membantu pencatatan transaksi di Warung Kenna.",
-    tools: ["Flutter", "Friebase"],
+    tools: ["Flutter", "Firebase"],
     dad: "300",
   },
   {
@@ -141,7 +141,7 @@ export const listProyek = [
     gambar: Proyek6,
     nama: "Website Portfolio",
     desk: "Website portofolio pribadi untuk menampilkan proyek, skill, dan informasi diri.",
-    tools: ["ReReact JS", "TailwindCSS"],
+    tools: ["React JS", "TailwindCSS"],
     dad: "700",
   },
 ];
